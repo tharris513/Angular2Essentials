@@ -9,4 +9,4 @@
 			"when": "$(basename).ts"
 		}
 	}
-}
+} 
